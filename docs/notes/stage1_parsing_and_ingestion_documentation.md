@@ -6,7 +6,7 @@ This stage takes the 4 raw source files and lands them in the S3 raw zone,
 the entry point of the pipeline:
 
 ```
-Sources → Python (Parsing + Ingestion) → AWS S3 → Snowflake → dbt → Airflow → Analytics
+Sources → Python (Parsing + Ingestion) → AWS S3 → Snowflake → dbt → Analytics
 ```
 
 It has two distinct steps:
