@@ -211,9 +211,8 @@ finance_data_pipeline/
 
 **[Your Name]**
 Aspiring Data Engineer · Open to Data Engineer / Analytics Engineer roles
-🔗 LinkedIn: `<your-linkedin-url>`
-📧 Email: `<your-email>`
-💻 GitHub: `<your-github-url>`
+🔗 LinkedIn: `https://www.linkedin.com/in/therealbasha/`
+💻 GitHub: `https://github.com/therealbashaa/`
 
 *If this project helped or interested you, a ⭐ on the repo is appreciated!*
 
