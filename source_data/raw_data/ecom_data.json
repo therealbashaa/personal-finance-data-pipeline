@@ -1,0 +1,6934 @@
+{
+  "export_generated_at": "2026-09-25T23:59:00+05:30",
+  "period_start": "2025-09-26",
+  "period_end": "2026-09-25",
+  "order_count": 205,
+  "orders": [
+    {
+      "order_id": "ORD2510021001",
+      "platform": "Flipkart",
+      "order_date": "2025-10-02T12:06:37+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251002-5678",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1647.0,
+        "discount": 164.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1482.3
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-10-08"
+    },
+    {
+      "order_id": "ORD2510021002",
+      "platform": "Croma",
+      "order_date": "2025-10-02T17:29:37+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251002-5678",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 549.0,
+        "discount": 109.8,
+        "shipping_fee": 40.0,
+        "tax": 13.18,
+        "total_amount": 492.38
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-10-07"
+    },
+    {
+      "order_id": "ORD2510021003",
+      "platform": "Myntra",
+      "order_date": "2025-10-02T16:38:04+05:30",
+      "status": "RETURNED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251002-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 349.0,
+        "discount": 69.8,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 328.2
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-10-04",
+      "return_date": "2025-10-08",
+      "return_reason": "Product damaged in transit",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2510021004",
+      "platform": "Flipkart",
+      "order_date": "2025-10-02T09:53:05+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251002-5678",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3198.0,
+        "discount": 319.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2878.2
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-10-06"
+    },
+    {
+      "order_id": "ORD2510031005",
+      "platform": "Ajio",
+      "order_date": "2025-10-03T19:56:42+05:30",
+      "status": "CANCELLED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 899.0,
+        "discount": 179.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 719.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2025-10-04",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2510031006",
+      "platform": "Ajio",
+      "order_date": "2025-10-03T09:10:28+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251003189916",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6247.0,
+        "discount": 312.35,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5934.65
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-10-08",
+      "return_date": "2025-10-11",
+      "return_reason": "Product damaged in transit",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2510031007",
+      "platform": "Nykaa",
+      "order_date": "2025-10-03T07:31:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251003041358",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1048.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1048.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-10-09"
+    },
+    {
+      "order_id": "ORD2510031008",
+      "platform": "Flipkart",
+      "order_date": "2025-10-03T23:39:41+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251003453709",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1499.0,
+          "item_total": 2998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2998.0,
+        "discount": 599.6,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2398.4
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-10-05"
+    },
+    {
+      "order_id": "ORD2510041009",
+      "platform": "Ajio",
+      "order_date": "2025-10-04T21:10:07+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251004470052",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 299.0,
+          "item_total": 598.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2245.0,
+        "discount": 336.75,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1908.25
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-10-08"
+    },
+    {
+      "order_id": "ORD2510041010",
+      "platform": "BigBasket",
+      "order_date": "2025-10-04T09:55:13+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251004981558",
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3499.0,
+        "discount": 699.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2799.2
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-10-10"
+    },
+    {
+      "order_id": "ORD2510051011",
+      "platform": "Ajio",
+      "order_date": "2025-10-05T22:30:19+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251005059753",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 10647.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 10647.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-10-07"
+    },
+    {
+      "order_id": "ORD2510071012",
+      "platform": "Flipkart",
+      "order_date": "2025-10-07T07:48:33+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1174.0,
+        "discount": 58.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1115.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-10-11"
+    },
+    {
+      "order_id": "ORD2510081013",
+      "platform": "Croma",
+      "order_date": "2025-10-08T14:39:51+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251008-5678",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1348.0,
+        "discount": 67.4,
+        "shipping_fee": 0.0,
+        "tax": 38.42,
+        "total_amount": 1319.02
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2025-10-08",
+      "cancellation_reason": "Found better price elsewhere"
+    },
+    {
+      "order_id": "ORD2510111014",
+      "platform": "Nykaa",
+      "order_date": "2025-10-11T22:16:12+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3798.0,
+        "discount": 379.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3418.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-10-15",
+      "return_date": "2025-10-19",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2510121015",
+      "platform": "Amazon",
+      "order_date": "2025-10-12T22:58:41+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251012920813",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 74.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 674.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-10-16"
+    },
+    {
+      "order_id": "ORD2510131016",
+      "platform": "Nykaa",
+      "order_date": "2025-10-13T19:29:25+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251013-5678",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 44.85,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 294.15
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-10-15"
+    },
+    {
+      "order_id": "ORD2510141017",
+      "platform": "Croma",
+      "order_date": "2025-10-14T22:42:59+05:30",
+      "status": "CANCELLED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "55-inch Smart TV",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 34999.0,
+          "item_total": 34999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 34999.0,
+        "discount": 6999.8,
+        "shipping_fee": 0.0,
+        "tax": 839.98,
+        "total_amount": 28839.18
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2025-10-15",
+      "cancellation_reason": "Found better price elsewhere"
+    },
+    {
+      "order_id": "ORD2510141018",
+      "platform": "BigBasket",
+      "order_date": "2025-10-14T13:01:16+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1499.0,
+        "discount": 299.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1199.2
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-10-17"
+    },
+    {
+      "order_id": "ORD2510141019",
+      "platform": "Myntra",
+      "order_date": "2025-10-14T23:08:34+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251014-5678",
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3147.0,
+        "discount": 472.05,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2674.95
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2025-10-14",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2510171020",
+      "platform": "Nykaa",
+      "order_date": "2025-10-17T08:20:43+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251017650557",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1499.0,
+        "discount": 74.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1424.05
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-10-23"
+    },
+    {
+      "order_id": "ORD2510181021",
+      "platform": "BigBasket",
+      "order_date": "2025-10-18T07:48:57+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251018291244",
+      "items": [
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 449.0,
+        "discount": 22.45,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 466.55
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2025-10-18",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2510181022",
+      "platform": "Myntra",
+      "order_date": "2025-10-18T13:53:28+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5795.0,
+        "discount": 1159.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4636.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-10-21",
+      "return_date": "2025-10-25",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2510191023",
+      "platform": "Ajio",
+      "order_date": "2025-10-19T18:09:16+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251019-5678",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1299.0,
+        "discount": 64.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1234.05
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2025-10-19",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2510191024",
+      "platform": "Flipkart",
+      "order_date": "2025-10-19T20:32:25+05:30",
+      "status": "CANCELLED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 299.0,
+          "item_total": 598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 598.0,
+        "discount": 29.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 568.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2025-10-20",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2510211025",
+      "platform": "Flipkart",
+      "order_date": "2025-10-21T19:21:33+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251021-5678",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 74.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 674.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-10-27"
+    },
+    {
+      "order_id": "ORD2510271026",
+      "platform": "Myntra",
+      "order_date": "2025-10-27T15:48:08+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251027330290",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 349.0,
+        "discount": 0.0,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 389.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-11-01"
+    },
+    {
+      "order_id": "ORD2510271027",
+      "platform": "Nykaa",
+      "order_date": "2025-10-27T20:57:04+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251027076952",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 299.0,
+          "item_total": 598.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1023.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1023.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2025-10-28",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2510301028",
+      "platform": "Croma",
+      "order_date": "2025-10-30T20:59:58+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Mixer Grinder",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 2999.0,
+          "item_total": 2999.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 7998.0,
+        "discount": 799.8,
+        "shipping_fee": 0.0,
+        "tax": 215.95,
+        "total_amount": 7414.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-11-03"
+    },
+    {
+      "order_id": "ORD2510311029",
+      "platform": "BigBasket",
+      "order_date": "2025-10-31T16:28:32+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Designer Saree",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4747.0,
+        "discount": 237.35,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4509.65
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-11-03"
+    },
+    {
+      "order_id": "ORD2510311030",
+      "platform": "Myntra",
+      "order_date": "2025-10-31T23:30:15+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 0.0,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 465.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-11-05"
+    },
+    {
+      "order_id": "ORD2511071031",
+      "platform": "Flipkart",
+      "order_date": "2025-11-07T20:10:03+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4223.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4223.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-11-09"
+    },
+    {
+      "order_id": "ORD2511101032",
+      "platform": "Croma",
+      "order_date": "2025-11-10T07:16:23+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251110-5678",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1898.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 56.94,
+        "total_amount": 1954.94
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-11-14"
+    },
+    {
+      "order_id": "ORD2511131033",
+      "platform": "BigBasket",
+      "order_date": "2025-11-13T22:17:32+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251113394704",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1548.0,
+        "discount": 77.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1470.6
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-11-16"
+    },
+    {
+      "order_id": "ORD2511141034",
+      "platform": "Flipkart",
+      "order_date": "2025-11-14T14:05:37+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251114523610",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5396.0,
+        "discount": 809.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4586.6
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-11-20"
+    },
+    {
+      "order_id": "ORD2511161035",
+      "platform": "Nykaa",
+      "order_date": "2025-11-16T08:52:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251116280537",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 29.9,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 309.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-11-22"
+    },
+    {
+      "order_id": "ORD2511171036",
+      "platform": "Croma",
+      "order_date": "2025-11-17T10:24:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251117663040",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1024.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 30.72,
+        "total_amount": 1054.72
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-11-22"
+    },
+    {
+      "order_id": "ORD2511181037",
+      "platform": "BigBasket",
+      "order_date": "2025-11-18T23:57:34+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251118424415",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1499.0,
+        "discount": 149.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1349.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-11-20"
+    },
+    {
+      "order_id": "ORD2511211038",
+      "platform": "Croma",
+      "order_date": "2025-11-21T22:54:24+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251121726240",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 8097.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 242.91,
+        "total_amount": 8339.91
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-11-23"
+    },
+    {
+      "order_id": "ORD2511221039",
+      "platform": "Ajio",
+      "order_date": "2025-11-22T11:00:30+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251122650933",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2798.0,
+        "discount": 139.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2658.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2025-11-22",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2511221040",
+      "platform": "Myntra",
+      "order_date": "2025-11-22T21:49:07+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3798.0,
+        "discount": 189.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3608.1
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-11-28"
+    },
+    {
+      "order_id": "ORD2511231041",
+      "platform": "Flipkart",
+      "order_date": "2025-11-23T15:24:13+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251123685405",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 7298.0,
+        "discount": 729.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 6568.2
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-11-26"
+    },
+    {
+      "order_id": "ORD2511271042",
+      "platform": "Amazon",
+      "order_date": "2025-11-27T19:01:10+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3523.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3523.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-11-29"
+    },
+    {
+      "order_id": "ORD2511271043",
+      "platform": "Ajio",
+      "order_date": "2025-11-27T07:20:48+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251127662039",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 1299.0,
+          "item_total": 2598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2897.0,
+        "discount": 144.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2752.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-12-01"
+    },
+    {
+      "order_id": "ORD2511291044",
+      "platform": "Nykaa",
+      "order_date": "2025-11-29T18:59:27+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251129579077",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2248.0,
+        "discount": 112.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2135.6
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2025-12-03"
+    },
+    {
+      "order_id": "ORD2512021045",
+      "platform": "Flipkart",
+      "order_date": "2025-12-02T11:41:55+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251202394475",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        },
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2597.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2597.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2025-12-03",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2512041046",
+      "platform": "Amazon",
+      "order_date": "2025-12-04T19:41:15+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251204464717",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 425.0,
+          "item_total": 850.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6848.0,
+        "discount": 342.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 6505.6
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2025-12-05",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2512051047",
+      "platform": "BigBasket",
+      "order_date": "2025-12-05T21:58:21+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251205-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1348.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1348.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2025-12-06",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2512081048",
+      "platform": "Flipkart",
+      "order_date": "2025-12-08T07:47:55+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251208132649",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4847.0,
+        "discount": 242.35,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4604.65
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-12-13"
+    },
+    {
+      "order_id": "ORD2512091049",
+      "platform": "Ajio",
+      "order_date": "2025-12-09T11:43:32+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3097.0,
+        "discount": 154.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2942.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2025-12-15"
+    },
+    {
+      "order_id": "ORD2512091050",
+      "platform": "Croma",
+      "order_date": "2025-12-09T16:54:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251209939513",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2299.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 68.97,
+        "total_amount": 2367.97
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-12-11"
+    },
+    {
+      "order_id": "ORD2512101051",
+      "platform": "Flipkart",
+      "order_date": "2025-12-10T21:15:50+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251210-5678",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1098.0,
+        "discount": 164.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 933.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-12-12"
+    },
+    {
+      "order_id": "ORD2512111052",
+      "platform": "Flipkart",
+      "order_date": "2025-12-11T14:36:58+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251211-5678",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 42.5,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 422.5
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-12-13"
+    },
+    {
+      "order_id": "ORD2512141053",
+      "platform": "Croma",
+      "order_date": "2025-12-14T19:16:14+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251214667217",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 425.0,
+          "item_total": 850.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1649.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 49.47,
+        "total_amount": 1698.47
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-12-20"
+    },
+    {
+      "order_id": "ORD2512171054",
+      "platform": "Amazon",
+      "order_date": "2025-12-17T22:33:15+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 449.0,
+        "discount": 44.9,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 453.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2025-12-23"
+    },
+    {
+      "order_id": "ORD2512211055",
+      "platform": "Flipkart",
+      "order_date": "2025-12-21T09:16:14+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI251221113190",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 549.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 549.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-12-26"
+    },
+    {
+      "order_id": "ORD2512221056",
+      "platform": "Myntra",
+      "order_date": "2025-12-22T13:00:51+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4999.0,
+        "discount": 249.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4749.05
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2025-12-26"
+    },
+    {
+      "order_id": "ORD2512271057",
+      "platform": "Croma",
+      "order_date": "2025-12-27T10:39:31+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-251227-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 9197.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 275.91,
+        "total_amount": 9472.91
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-01-02"
+    },
+    {
+      "order_id": "ORD2512301058",
+      "platform": "Flipkart",
+      "order_date": "2025-12-30T08:13:01+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 9998.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 9998.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-01-05"
+    },
+    {
+      "order_id": "ORD2601021059",
+      "platform": "Flipkart",
+      "order_date": "2026-01-02T17:28:10+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260102-5678",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4797.0,
+        "discount": 239.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4557.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-01-04"
+    },
+    {
+      "order_id": "ORD2601021060",
+      "platform": "Amazon",
+      "order_date": "2026-01-02T19:22:49+05:30",
+      "status": "RETURNED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260102-5678",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 799.0,
+        "discount": 39.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 759.05
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-01-06",
+      "return_date": "2026-01-10",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2601031061",
+      "platform": "Croma",
+      "order_date": "2026-01-03T20:15:51+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260103028484",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4547.0,
+        "discount": 227.35,
+        "shipping_fee": 0.0,
+        "tax": 129.59,
+        "total_amount": 4449.24
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-01-08",
+      "return_date": "2026-01-09",
+      "return_reason": "Changed my mind",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2601041062",
+      "platform": "Ajio",
+      "order_date": "2026-01-04T18:17:21+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 899.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 899.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-01-06",
+      "return_date": "2026-01-09",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2601061063",
+      "platform": "Myntra",
+      "order_date": "2026-01-06T19:50:16+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260106743399",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2299.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2299.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2026-01-07",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2601111064",
+      "platform": "Flipkart",
+      "order_date": "2026-01-11T18:50:50+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260111762020",
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        },
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2498.0,
+        "discount": 374.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2123.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2026-01-13",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2601131065",
+      "platform": "BigBasket",
+      "order_date": "2026-01-13T12:27:56+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260113071374",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 0.0,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 348.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-01-15"
+    },
+    {
+      "order_id": "ORD2601141066",
+      "platform": "Amazon",
+      "order_date": "2026-01-14T14:08:26+05:30",
+      "status": "RETURNED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6097.0,
+        "discount": 609.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5487.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-01-19",
+      "return_date": "2026-01-21",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2601151067",
+      "platform": "Myntra",
+      "order_date": "2026-01-15T11:18:56+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260115-5678",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1548.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1548.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-01-21"
+    },
+    {
+      "order_id": "ORD2601231068",
+      "platform": "Flipkart",
+      "order_date": "2026-01-23T21:02:06+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260123-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2598.0,
+        "discount": 389.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2208.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-01-25"
+    },
+    {
+      "order_id": "ORD2601231069",
+      "platform": "Ajio",
+      "order_date": "2026-01-23T13:38:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3499.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3499.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-01-29"
+    },
+    {
+      "order_id": "ORD2601241070",
+      "platform": "Flipkart",
+      "order_date": "2026-01-24T10:40:38+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260124-5678",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 74.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 674.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "cancellation_date": "2026-01-26",
+      "cancellation_reason": "Delayed delivery"
+    },
+    {
+      "order_id": "ORD2601291071",
+      "platform": "Flipkart",
+      "order_date": "2026-01-29T13:52:00+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260129557735",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 749.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-02-02",
+      "return_date": "2026-02-06",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2601291072",
+      "platform": "BigBasket",
+      "order_date": "2026-01-29T11:40:34+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260129-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6097.0,
+        "discount": 914.55,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5182.45
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-01-31"
+    },
+    {
+      "order_id": "ORD2601301073",
+      "platform": "Croma",
+      "order_date": "2026-01-30T16:47:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260130-5678",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 29.9,
+        "shipping_fee": 49.0,
+        "tax": 8.07,
+        "total_amount": 326.17
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-02-03"
+    },
+    {
+      "order_id": "ORD2602011074",
+      "platform": "Nykaa",
+      "order_date": "2026-02-01T19:05:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260201131274",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 29.9,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 309.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-02-07"
+    },
+    {
+      "order_id": "ORD2602011075",
+      "platform": "Myntra",
+      "order_date": "2026-02-01T16:08:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260201323883",
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2173.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2173.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-02-03"
+    },
+    {
+      "order_id": "ORD2602041076",
+      "platform": "Ajio",
+      "order_date": "2026-02-04T22:11:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260204-5678",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1198.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1198.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-02-07"
+    },
+    {
+      "order_id": "ORD2602061077",
+      "platform": "Amazon",
+      "order_date": "2026-02-06T08:56:35+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260206149119",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2197.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2197.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-02-08",
+      "return_date": "2026-02-11",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2602071078",
+      "platform": "BigBasket",
+      "order_date": "2026-02-07T21:32:28+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260207351070",
+      "items": [
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 449.0,
+          "item_total": 898.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2197.0,
+        "discount": 329.55,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1867.45
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-02-10"
+    },
+    {
+      "order_id": "ORD2602071079",
+      "platform": "Amazon",
+      "order_date": "2026-02-07T12:51:30+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260207-5678",
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 9998.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 9998.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-02-12"
+    },
+    {
+      "order_id": "ORD2602121080",
+      "platform": "Amazon",
+      "order_date": "2026-02-12T08:40:08+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260212724407",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 42.5,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 431.5
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-02-14"
+    },
+    {
+      "order_id": "ORD2602131081",
+      "platform": "Croma",
+      "order_date": "2026-02-13T13:08:56+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260213379066",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 2299.0,
+          "item_total": 4598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5197.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 155.91,
+        "total_amount": 5352.91
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-02-18"
+    },
+    {
+      "order_id": "ORD2602131082",
+      "platform": "Myntra",
+      "order_date": "2026-02-13T15:57:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260213-5678",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 649.0,
+        "discount": 32.45,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 616.55
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-02-18"
+    },
+    {
+      "order_id": "ORD2602141083",
+      "platform": "Flipkart",
+      "order_date": "2026-02-14T13:11:25+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260214-5678",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5598.0,
+        "discount": 839.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4758.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-02-17"
+    },
+    {
+      "order_id": "ORD2602141084",
+      "platform": "Croma",
+      "order_date": "2026-02-14T21:35:33+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2098.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 62.94,
+        "total_amount": 2160.94
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-02-20"
+    },
+    {
+      "order_id": "ORD2602141085",
+      "platform": "Croma",
+      "order_date": "2026-02-14T18:21:48+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260214669472",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1598.0,
+        "discount": 79.9,
+        "shipping_fee": 0.0,
+        "tax": 45.54,
+        "total_amount": 1563.64
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-02-16",
+      "return_date": "2026-02-20",
+      "return_reason": "Product damaged in transit",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2602211086",
+      "platform": "BigBasket",
+      "order_date": "2026-02-21T07:47:02+05:30",
+      "status": "RETURNED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260221-5678",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1299.0,
+        "discount": 64.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1234.05
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-02-24",
+      "return_date": "2026-02-26",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2602241087",
+      "platform": "Ajio",
+      "order_date": "2026-02-24T10:33:22+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260224893268",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2822.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2822.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-02"
+    },
+    {
+      "order_id": "ORD2602251088",
+      "platform": "Flipkart",
+      "order_date": "2026-02-25T14:45:09+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1724.0,
+        "discount": 258.6,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1465.4
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-03-02"
+    },
+    {
+      "order_id": "ORD2602261089",
+      "platform": "Amazon",
+      "order_date": "2026-02-26T21:38:59+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 42.5,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 431.5
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-04"
+    },
+    {
+      "order_id": "ORD2602281090",
+      "platform": "Croma",
+      "order_date": "2026-02-28T12:03:58+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260228-5678",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1648.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 49.44,
+        "total_amount": 1697.44
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-03-02"
+    },
+    {
+      "order_id": "ORD2603051091",
+      "platform": "Ajio",
+      "order_date": "2026-03-05T21:05:47+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2897.0,
+        "discount": 289.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2607.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-03-10"
+    },
+    {
+      "order_id": "ORD2603071092",
+      "platform": "Flipkart",
+      "order_date": "2026-03-07T08:17:40+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260307461895",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 349.0,
+        "discount": 0.0,
+        "shipping_fee": 79.0,
+        "tax": 0.0,
+        "total_amount": 428.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-13"
+    },
+    {
+      "order_id": "ORD2603071093",
+      "platform": "Croma",
+      "order_date": "2026-03-07T14:53:47+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1398.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 41.94,
+        "total_amount": 1439.94
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-10"
+    },
+    {
+      "order_id": "ORD2603141094",
+      "platform": "Flipkart",
+      "order_date": "2026-03-14T22:53:33+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2198.0,
+        "discount": 219.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1978.2
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-03-16"
+    },
+    {
+      "order_id": "ORD2603171095",
+      "platform": "Nykaa",
+      "order_date": "2026-03-17T12:09:02+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 549.0,
+        "discount": 82.35,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 515.65
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-03-19"
+    },
+    {
+      "order_id": "ORD2603171096",
+      "platform": "Amazon",
+      "order_date": "2026-03-17T08:44:04+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 999.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 999.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-03-19"
+    },
+    {
+      "order_id": "ORD2603181097",
+      "platform": "Amazon",
+      "order_date": "2026-03-18T16:30:06+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260318186748",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5696.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5696.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-03-21"
+    },
+    {
+      "order_id": "ORD2603201098",
+      "platform": "Amazon",
+      "order_date": "2026-03-20T16:03:45+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260320-5678",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1299.0,
+        "discount": 64.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1234.05
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-24"
+    },
+    {
+      "order_id": "ORD2603201099",
+      "platform": "Myntra",
+      "order_date": "2026-03-20T08:34:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260320-5678",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 11896.0,
+        "discount": 1189.6,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 10706.4
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-03-23"
+    },
+    {
+      "order_id": "ORD2603211100",
+      "platform": "Croma",
+      "order_date": "2026-03-21T07:22:31+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260321616754",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1299.0,
+        "discount": 129.9,
+        "shipping_fee": 0.0,
+        "tax": 35.07,
+        "total_amount": 1204.17
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-03-23"
+    },
+    {
+      "order_id": "ORD2603211101",
+      "platform": "Ajio",
+      "order_date": "2026-03-21T13:44:14+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260321447395",
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4999.0,
+        "discount": 749.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4249.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-26",
+      "return_date": "2026-03-28",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2603211102",
+      "platform": "Ajio",
+      "order_date": "2026-03-21T13:19:16+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260321-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 1799.0,
+          "item_total": 3598.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5445.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5445.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-03-26"
+    },
+    {
+      "order_id": "ORD2603221103",
+      "platform": "BigBasket",
+      "order_date": "2026-03-22T17:10:29+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260322-5678",
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 999.0,
+          "item_total": 1998.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2946.0,
+        "discount": 147.3,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2798.7
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-03-27"
+    },
+    {
+      "order_id": "ORD2603311104",
+      "platform": "Croma",
+      "order_date": "2026-03-31T11:15:46+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260331-5678",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 425.0,
+          "item_total": 850.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1499.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 44.97,
+        "total_amount": 1543.97
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-04-04"
+    },
+    {
+      "order_id": "ORD2604041105",
+      "platform": "Croma",
+      "order_date": "2026-04-04T08:00:25+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260404318196",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1348.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 40.44,
+        "total_amount": 1388.44
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-04-09",
+      "return_date": "2026-04-11",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2604041106",
+      "platform": "Amazon",
+      "order_date": "2026-04-04T20:54:14+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1598.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1598.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-04-07",
+      "return_date": "2026-04-09",
+      "return_reason": "Wrong size delivered",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2604051107",
+      "platform": "Ajio",
+      "order_date": "2026-04-05T20:30:29+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        },
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1947.0,
+        "discount": 194.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1752.3
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-04-07"
+    },
+    {
+      "order_id": "ORD2604051108",
+      "platform": "BigBasket",
+      "order_date": "2026-04-05T08:16:34+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1598.0,
+        "discount": 159.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1438.2
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-04-08",
+      "return_date": "2026-04-10",
+      "return_reason": "Product damaged in transit",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2604061109",
+      "platform": "Amazon",
+      "order_date": "2026-04-06T19:32:48+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 10397.0,
+        "discount": 1039.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 9357.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-04-08"
+    },
+    {
+      "order_id": "ORD2604061110",
+      "platform": "Croma",
+      "order_date": "2026-04-06T18:37:16+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260406223381",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 899.0,
+          "item_total": 1798.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4145.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 124.35,
+        "total_amount": 4269.35
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-04-08"
+    },
+    {
+      "order_id": "ORD2604071111",
+      "platform": "Flipkart",
+      "order_date": "2026-04-07T13:30:41+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260407415915",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1497.0,
+        "discount": 149.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1347.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-04-13"
+    },
+    {
+      "order_id": "ORD2604071112",
+      "platform": "Croma",
+      "order_date": "2026-04-07T22:22:50+05:30",
+      "status": "CANCELLED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 42.5,
+        "shipping_fee": 49.0,
+        "tax": 11.47,
+        "total_amount": 442.97
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2026-04-07",
+      "cancellation_reason": "Delayed delivery"
+    },
+    {
+      "order_id": "ORD2604081113",
+      "platform": "Croma",
+      "order_date": "2026-04-08T14:41:19+05:30",
+      "status": "CANCELLED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1897.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 56.91,
+        "total_amount": 1953.91
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2026-04-09",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2604091114",
+      "platform": "Ajio",
+      "order_date": "2026-04-09T11:33:53+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260409008717",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3048.0,
+        "discount": 304.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2743.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2026-04-10",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2604101115",
+      "platform": "Croma",
+      "order_date": "2026-04-10T14:11:49+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260410417926",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1899.0,
+        "discount": 94.95,
+        "shipping_fee": 0.0,
+        "tax": 54.12,
+        "total_amount": 1858.17
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-04-15"
+    },
+    {
+      "order_id": "ORD2604111116",
+      "platform": "Myntra",
+      "order_date": "2026-04-11T16:12:31+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260411733438",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3798.0,
+        "discount": 569.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3228.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-04-14",
+      "return_date": "2026-04-15",
+      "return_reason": "Changed my mind",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2604121117",
+      "platform": "BigBasket",
+      "order_date": "2026-04-12T22:29:57+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1598.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1598.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-04-15"
+    },
+    {
+      "order_id": "ORD2604131118",
+      "platform": "Croma",
+      "order_date": "2026-04-13T16:53:29+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5648.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 169.44,
+        "total_amount": 5817.44
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-04-17"
+    },
+    {
+      "order_id": "ORD2604171119",
+      "platform": "Ajio",
+      "order_date": "2026-04-17T10:32:30+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260417-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3298.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3298.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-04-22"
+    },
+    {
+      "order_id": "ORD2604221120",
+      "platform": "Nykaa",
+      "order_date": "2026-04-22T17:30:49+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260422-5678",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 899.0,
+        "discount": 89.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 809.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-04-28"
+    },
+    {
+      "order_id": "ORD2604241121",
+      "platform": "BigBasket",
+      "order_date": "2026-04-24T16:22:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260424-5678",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 1299.0,
+          "item_total": 2598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2598.0,
+        "discount": 129.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2468.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-04-29"
+    },
+    {
+      "order_id": "ORD2604261122",
+      "platform": "Ajio",
+      "order_date": "2026-04-26T16:08:37+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1398.0,
+        "discount": 139.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1258.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-04-28"
+    },
+    {
+      "order_id": "ORD2605011123",
+      "platform": "Nykaa",
+      "order_date": "2026-05-01T21:40:48+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 899.0,
+          "item_total": 1798.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2397.0,
+        "discount": 359.55,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2037.45
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-05-04"
+    },
+    {
+      "order_id": "ORD2605021124",
+      "platform": "Amazon",
+      "order_date": "2026-05-02T11:50:19+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 899.0,
+          "item_total": 1798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1798.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1798.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-05-08"
+    },
+    {
+      "order_id": "ORD2605021125",
+      "platform": "Croma",
+      "order_date": "2026-05-02T22:36:33+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260502721894",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 1299.0,
+          "item_total": 2598.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3597.0,
+        "discount": 179.85,
+        "shipping_fee": 0.0,
+        "tax": 102.51,
+        "total_amount": 3519.66
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-05-04"
+    },
+    {
+      "order_id": "ORD2605041126",
+      "platform": "Nykaa",
+      "order_date": "2026-05-04T22:49:26+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260504703981",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1098.0,
+        "discount": 109.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 988.2
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-05-10"
+    },
+    {
+      "order_id": "ORD2605071127",
+      "platform": "Amazon",
+      "order_date": "2026-05-07T10:54:05+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260507-5678",
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4999.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4999.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-05-10"
+    },
+    {
+      "order_id": "ORD2605101128",
+      "platform": "Nykaa",
+      "order_date": "2026-05-10T12:59:03+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260510377997",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 425.0,
+          "item_total": 850.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 850.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 850.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-05-14"
+    },
+    {
+      "order_id": "ORD2605131129",
+      "platform": "Nykaa",
+      "order_date": "2026-05-13T08:45:02+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2299.0,
+        "discount": 344.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1954.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-05-15"
+    },
+    {
+      "order_id": "ORD2605131130",
+      "platform": "Amazon",
+      "order_date": "2026-05-13T08:20:23+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260513313007",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 2299.0,
+          "item_total": 4598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4598.0,
+        "discount": 229.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4368.1
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-05-19"
+    },
+    {
+      "order_id": "ORD2605131131",
+      "platform": "Croma",
+      "order_date": "2026-05-13T22:24:49+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        },
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5998.0,
+        "discount": 299.9,
+        "shipping_fee": 0.0,
+        "tax": 170.94,
+        "total_amount": 5869.04
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-05-18"
+    },
+    {
+      "order_id": "ORD2605181132",
+      "platform": "Myntra",
+      "order_date": "2026-05-18T14:24:24+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260518-5678",
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3897.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3897.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-05-23"
+    },
+    {
+      "order_id": "ORD2605181133",
+      "platform": "BigBasket",
+      "order_date": "2026-05-18T08:18:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260518122829",
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3499.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3499.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-05-21"
+    },
+    {
+      "order_id": "ORD2605191134",
+      "platform": "Nykaa",
+      "order_date": "2026-05-19T16:38:03+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260519947608",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 11222.0,
+        "discount": 1122.2,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 10099.8
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2026-05-21",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2605241135",
+      "platform": "Ajio",
+      "order_date": "2026-05-24T09:14:25+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260524-5678",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 799.0,
+        "discount": 79.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 719.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-05-30"
+    },
+    {
+      "order_id": "ORD2605291136",
+      "platform": "BigBasket",
+      "order_date": "2026-05-29T18:36:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260529938676",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        },
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2997.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2997.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-06-02"
+    },
+    {
+      "order_id": "ORD2606021137",
+      "platform": "Myntra",
+      "order_date": "2026-06-02T13:16:59+05:30",
+      "status": "CANCELLED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3047.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3047.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2026-06-03",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2606031138",
+      "platform": "Amazon",
+      "order_date": "2026-06-03T08:02:35+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1224.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1224.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-06-07"
+    },
+    {
+      "order_id": "ORD2606041139",
+      "platform": "Nykaa",
+      "order_date": "2026-06-04T23:25:11+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260604445056",
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 12297.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 12297.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-06-09"
+    },
+    {
+      "order_id": "ORD2606051140",
+      "platform": "Nykaa",
+      "order_date": "2026-06-05T08:57:35+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260605550351",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 749.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-06-07",
+      "return_date": "2026-06-08",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2606051141",
+      "platform": "Amazon",
+      "order_date": "2026-06-05T10:30:20+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260605-5678",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 425.0,
+        "discount": 0.0,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 465.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-06-09"
+    },
+    {
+      "order_id": "ORD2606081142",
+      "platform": "Myntra",
+      "order_date": "2026-06-08T21:45:58+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260608-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 349.0,
+          "item_total": 698.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2196.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2196.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "cancellation_date": "2026-06-08",
+      "cancellation_reason": "Ordered by mistake"
+    },
+    {
+      "order_id": "ORD2606121143",
+      "platform": "Flipkart",
+      "order_date": "2026-06-12T07:40:04+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2299.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2299.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-06-17",
+      "return_date": "2026-06-20",
+      "return_reason": "Item not as described",
+      "refund_status": "REFUND_INITIATED"
+    },
+    {
+      "order_id": "ORD2606121144",
+      "platform": "Ajio",
+      "order_date": "2026-06-12T11:28:55+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260612401349",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 37.45,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 711.55
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-06-15"
+    },
+    {
+      "order_id": "ORD2606151145",
+      "platform": "Myntra",
+      "order_date": "2026-06-15T15:31:06+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260615-5678",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1198.0,
+        "discount": 59.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1138.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-06-19"
+    },
+    {
+      "order_id": "ORD2606161146",
+      "platform": "Ajio",
+      "order_date": "2026-06-16T13:23:27+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260616-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 774.0,
+        "discount": 116.1,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 657.9
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-06-20"
+    },
+    {
+      "order_id": "ORD2606171147",
+      "platform": "Flipkart",
+      "order_date": "2026-06-17T11:40:01+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260617-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 349.0,
+          "item_total": 698.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 698.0,
+        "discount": 34.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 663.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-06-22"
+    },
+    {
+      "order_id": "ORD2606211148",
+      "platform": "Nykaa",
+      "order_date": "2026-06-21T13:17:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260621446627",
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 1799.0,
+          "item_total": 3598.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4622.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4622.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-06-24"
+    },
+    {
+      "order_id": "ORD2606251149",
+      "platform": "Flipkart",
+      "order_date": "2026-06-25T22:48:17+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260625112944",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 599.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 599.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-06-28"
+    },
+    {
+      "order_id": "ORD2606261150",
+      "platform": "Flipkart",
+      "order_date": "2026-06-26T08:33:51+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260626455281",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1899.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1899.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-06-30"
+    },
+    {
+      "order_id": "ORD2606281151",
+      "platform": "Myntra",
+      "order_date": "2026-06-28T12:36:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260628711787",
+      "items": [
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 2299.0,
+          "item_total": 4598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 9597.0,
+        "discount": 959.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 8637.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-02"
+    },
+    {
+      "order_id": "ORD2606281152",
+      "platform": "Amazon",
+      "order_date": "2026-06-28T10:22:45+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260628-5678",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 37.45,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 711.55
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-07-01"
+    },
+    {
+      "order_id": "ORD2606301153",
+      "platform": "Nykaa",
+      "order_date": "2026-06-30T07:15:05+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260630-5678",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1198.0,
+        "discount": 119.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1078.2
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-03"
+    },
+    {
+      "order_id": "ORD2607011154",
+      "platform": "BigBasket",
+      "order_date": "2026-07-01T21:31:37+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 3499.0,
+          "item_total": 6998.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 8246.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 8246.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-07-07"
+    },
+    {
+      "order_id": "ORD2607011155",
+      "platform": "Nykaa",
+      "order_date": "2026-07-01T11:42:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260701-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 449.0,
+          "item_total": 898.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1247.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1247.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-06"
+    },
+    {
+      "order_id": "ORD2607011156",
+      "platform": "Croma",
+      "order_date": "2026-07-01T08:49:23+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 999.0,
+          "item_total": 1998.0
+        },
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1499.0,
+          "item_total": 2998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4996.0,
+        "discount": 749.4,
+        "shipping_fee": 0.0,
+        "tax": 127.4,
+        "total_amount": 4374.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-07-05"
+    },
+    {
+      "order_id": "ORD2607041157",
+      "platform": "Ajio",
+      "order_date": "2026-07-04T08:20:33+05:30",
+      "status": "RETURNED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 1799.0,
+          "item_total": 3598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3598.0,
+        "discount": 539.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3058.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-07-07",
+      "return_date": "2026-07-10",
+      "return_reason": "Product damaged in transit",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2607041158",
+      "platform": "Croma",
+      "order_date": "2026-07-04T23:42:01+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260704358018",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 749.0,
+        "discount": 112.35,
+        "shipping_fee": 0.0,
+        "tax": 19.1,
+        "total_amount": 655.75
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-07"
+    },
+    {
+      "order_id": "ORD2607061159",
+      "platform": "Flipkart",
+      "order_date": "2026-07-06T08:39:06+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3798.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3798.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-07-10"
+    },
+    {
+      "order_id": "ORD2607061160",
+      "platform": "Amazon",
+      "order_date": "2026-07-06T23:57:17+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260706311747",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2697.0,
+        "discount": 134.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2562.15
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-07-08"
+    },
+    {
+      "order_id": "ORD2607071161",
+      "platform": "Ajio",
+      "order_date": "2026-07-07T16:53:29+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260707-5678",
+      "items": [
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4373.0,
+        "discount": 437.3,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3935.7
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-07-13"
+    },
+    {
+      "order_id": "ORD2607091162",
+      "platform": "Croma",
+      "order_date": "2026-07-09T14:21:14+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260709-5678",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 299.0,
+          "item_total": 598.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3146.0,
+        "discount": 471.9,
+        "shipping_fee": 0.0,
+        "tax": 80.22,
+        "total_amount": 2754.32
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "cancellation_date": "2026-07-09",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2607091163",
+      "platform": "BigBasket",
+      "order_date": "2026-07-09T13:18:03+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260709-5678",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2248.0,
+        "discount": 112.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2135.6
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-07-11"
+    },
+    {
+      "order_id": "ORD2607101164",
+      "platform": "Flipkart",
+      "order_date": "2026-07-10T11:26:21+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        },
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 3499.0,
+          "item_total": 6998.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 10795.0,
+        "discount": 539.75,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 10255.25
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-14"
+    },
+    {
+      "order_id": "ORD2607181165",
+      "platform": "Flipkart",
+      "order_date": "2026-07-18T20:55:06+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260718807083",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 799.0,
+        "discount": 79.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 719.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-07-20"
+    },
+    {
+      "order_id": "ORD2607231166",
+      "platform": "Ajio",
+      "order_date": "2026-07-23T21:18:46+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260723-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 4999.0,
+          "item_total": 9998.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 10646.0,
+        "discount": 1596.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 9049.1
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-07-27"
+    },
+    {
+      "order_id": "ORD2607241167",
+      "platform": "Myntra",
+      "order_date": "2026-07-24T19:28:19+05:30",
+      "status": "CANCELLED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 299.0,
+          "item_total": 598.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1197.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1197.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2026-07-24",
+      "cancellation_reason": "Delayed delivery"
+    },
+    {
+      "order_id": "ORD2607271168",
+      "platform": "Nykaa",
+      "order_date": "2026-07-27T17:53:38+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260727593160",
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1098.0,
+        "discount": 164.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 933.3
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2026-07-27",
+      "cancellation_reason": "Delayed delivery"
+    },
+    {
+      "order_id": "ORD2607271169",
+      "platform": "Flipkart",
+      "order_date": "2026-07-27T20:33:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1948.0,
+        "discount": 292.2,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1655.8
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-08-02"
+    },
+    {
+      "order_id": "ORD2607301170",
+      "platform": "Croma",
+      "order_date": "2026-07-30T09:33:14+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260730-5678",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3798.0,
+        "discount": 569.7,
+        "shipping_fee": 0.0,
+        "tax": 96.85,
+        "total_amount": 3325.15
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-08-01"
+    },
+    {
+      "order_id": "ORD2607311171",
+      "platform": "Ajio",
+      "order_date": "2026-07-31T23:47:52+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260731-5678",
+      "items": [
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 898.0,
+        "discount": 89.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 808.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-08-02"
+    },
+    {
+      "order_id": "ORD2608031172",
+      "platform": "BigBasket",
+      "order_date": "2026-08-03T10:22:36+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 599.0,
+          "item_total": 599.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1598.0,
+        "discount": 239.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1358.3
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-08-05"
+    },
+    {
+      "order_id": "ORD2608041173",
+      "platform": "Croma",
+      "order_date": "2026-08-04T07:12:11+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260804862438",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1948.0,
+        "discount": 97.4,
+        "shipping_fee": 0.0,
+        "tax": 55.52,
+        "total_amount": 1906.12
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-08-09"
+    },
+    {
+      "order_id": "ORD2608061174",
+      "platform": "Nykaa",
+      "order_date": "2026-08-06T07:06:04+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260806764932",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Desk Lamp",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 599.0,
+          "item_total": 1198.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2422.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2422.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "cancellation_date": "2026-08-06",
+      "cancellation_reason": "Payment issue at checkout"
+    },
+    {
+      "order_id": "ORD2608101175",
+      "platform": "Nykaa",
+      "order_date": "2026-08-10T08:17:40+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 549.0,
+          "item_total": 549.0
+        },
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1448.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1448.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-08-12"
+    },
+    {
+      "order_id": "ORD2608101176",
+      "platform": "Nykaa",
+      "order_date": "2026-08-10T21:03:39+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260810436584",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 2299.0,
+          "item_total": 4598.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 7995.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 7995.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-08-13"
+    },
+    {
+      "order_id": "ORD2608111177",
+      "platform": "Flipkart",
+      "order_date": "2026-08-11T16:26:38+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 899.0,
+        "discount": 134.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 764.15
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-08-15"
+    },
+    {
+      "order_id": "ORD2608111178",
+      "platform": "Ajio",
+      "order_date": "2026-08-11T07:50:55+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260811138662",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 649.0,
+          "item_total": 1298.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1298.0,
+        "discount": 194.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1103.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-08-14"
+    },
+    {
+      "order_id": "ORD2608121179",
+      "platform": "Amazon",
+      "order_date": "2026-08-12T19:35:23+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260812617975",
+      "items": [
+        {
+          "product_name": "Men's Formal Shirt",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 999.0,
+          "item_total": 999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 999.0,
+        "discount": 99.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 899.1
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-08-14",
+      "return_date": "2026-08-17",
+      "return_reason": "Changed my mind",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2608121180",
+      "platform": "Ajio",
+      "order_date": "2026-08-12T16:22:15+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260812-5678",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 349.0,
+          "item_total": 698.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 698.0,
+        "discount": 34.9,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 663.1
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-08-17"
+    },
+    {
+      "order_id": "ORD2608171181",
+      "platform": "Amazon",
+      "order_date": "2026-08-17T21:29:53+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260817102130",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3298.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3298.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-08-20"
+    },
+    {
+      "order_id": "ORD2608211182",
+      "platform": "Flipkart",
+      "order_date": "2026-08-21T14:54:28+05:30",
+      "status": "RETURNED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260821546745",
+      "items": [
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 749.0,
+          "item_total": 1498.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 2,
+          "unit_price": 1899.0,
+          "item_total": 3798.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5296.0,
+        "discount": 794.4,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4501.6
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-08-24",
+      "return_date": "2026-08-27",
+      "return_reason": "Changed my mind",
+      "refund_status": "REFUNDED"
+    },
+    {
+      "order_id": "ORD2608231183",
+      "platform": "BigBasket",
+      "order_date": "2026-08-23T19:01:42+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260823-5678",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 299.0,
+        "discount": 0.0,
+        "shipping_fee": 40.0,
+        "tax": 0.0,
+        "total_amount": 339.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-08-29"
+    },
+    {
+      "order_id": "ORD2608271184",
+      "platform": "Flipkart",
+      "order_date": "2026-08-27T09:35:58+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260827739179",
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        },
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1798.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1798.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-08-31"
+    },
+    {
+      "order_id": "ORD2608271185",
+      "platform": "Nykaa",
+      "order_date": "2026-08-27T18:25:54+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260827030384",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5497.0,
+        "discount": 274.85,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5222.15
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "cancellation_date": "2026-08-28",
+      "cancellation_reason": "Found better price elsewhere"
+    },
+    {
+      "order_id": "ORD2608291186",
+      "platform": "Myntra",
+      "order_date": "2026-08-29T14:54:25+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Wireless Earbuds",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1499.0,
+          "item_total": 1499.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1499.0,
+        "discount": 74.95,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1424.05
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-02"
+    },
+    {
+      "order_id": "ORD2609021187",
+      "platform": "Flipkart",
+      "order_date": "2026-09-02T18:59:00+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260902-5678",
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2198.0,
+        "discount": 329.7,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1868.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-04"
+    },
+    {
+      "order_id": "ORD2609021188",
+      "platform": "Nykaa",
+      "order_date": "2026-09-02T09:26:44+05:30",
+      "status": "DELIVERED",
+      "payment_method": "COD",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Cotton Bedsheet Set",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 899.0,
+          "item_total": 899.0
+        },
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1348.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1348.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-09-07"
+    },
+    {
+      "order_id": "ORD2609041189",
+      "platform": "Croma",
+      "order_date": "2026-09-04T23:03:43+05:30",
+      "status": "CANCELLED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260904-5678",
+      "items": [
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        },
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 2,
+          "unit_price": 799.0,
+          "item_total": 1598.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 2,
+          "unit_price": 2299.0,
+          "item_total": 4598.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6845.0,
+        "discount": 342.25,
+        "shipping_fee": 0.0,
+        "tax": 195.08,
+        "total_amount": 6697.83
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "cancellation_date": "2026-09-06",
+      "cancellation_reason": "Found better price elsewhere"
+    },
+    {
+      "order_id": "ORD2609041190",
+      "platform": "Ajio",
+      "order_date": "2026-09-04T15:15:03+05:30",
+      "status": "CANCELLED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260904119667",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 7323.0,
+        "discount": 1098.45,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 6224.55
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "cancellation_date": "2026-09-04",
+      "cancellation_reason": "Delayed delivery"
+    },
+    {
+      "order_id": "ORD2609061191",
+      "platform": "Myntra",
+      "order_date": "2026-09-06T14:45:15+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260906-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4198.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 4198.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-08"
+    },
+    {
+      "order_id": "ORD2609061192",
+      "platform": "BigBasket",
+      "order_date": "2026-09-06T20:48:10+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260906-5678",
+      "items": [
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 1,
+          "unit_price": 425.0,
+          "item_total": 425.0
+        },
+        {
+          "product_name": "Women's Kurti",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 749.0,
+          "item_total": 749.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1174.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1174.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-09-09"
+    },
+    {
+      "order_id": "ORD2609071193",
+      "platform": "BigBasket",
+      "order_date": "2026-09-07T15:19:12+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260907004281",
+      "items": [
+        {
+          "product_name": "Phone Case",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 299.0,
+          "item_total": 299.0
+        },
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2198.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2198.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": "2026-09-09"
+    },
+    {
+      "order_id": "ORD2609081194",
+      "platform": "Croma",
+      "order_date": "2026-09-08T09:02:00+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260908-5678",
+      "items": [
+        {
+          "product_name": "Smart Watch",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 3499.0,
+          "item_total": 3499.0
+        },
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3848.0,
+        "discount": 384.8,
+        "shipping_fee": 0.0,
+        "tax": 103.9,
+        "total_amount": 3567.1
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-09-13"
+    },
+    {
+      "order_id": "ORD2609091195",
+      "platform": "Nykaa",
+      "order_date": "2026-09-09T07:22:58+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 1799.0,
+          "item_total": 1799.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 4098.0,
+        "discount": 409.8,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 3688.2
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-09-11"
+    },
+    {
+      "order_id": "ORD2609101196",
+      "platform": "Croma",
+      "order_date": "2026-09-10T16:23:11+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260910811467",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1448.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 43.44,
+        "total_amount": 1491.44
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600020",
+      "delivery_date": "2026-09-16"
+    },
+    {
+      "order_id": "ORD2609101197",
+      "platform": "Nykaa",
+      "order_date": "2026-09-10T17:14:23+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260910536003",
+      "items": [
+        {
+          "product_name": "Stainless Steel Bottle",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 349.0,
+          "item_total": 349.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 349.0,
+        "discount": 52.35,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 345.65
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-09-13"
+    },
+    {
+      "order_id": "ORD2609131198",
+      "platform": "BigBasket",
+      "order_date": "2026-09-13T08:13:31+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260913-5678",
+      "items": [
+        {
+          "product_name": "Yoga Mat",
+          "category": "Sports",
+          "quantity": 1,
+          "unit_price": 799.0,
+          "item_total": 799.0
+        },
+        {
+          "product_name": "Non-stick Frying Pan",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 649.0,
+          "item_total": 649.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1448.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1448.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-18"
+    },
+    {
+      "order_id": "ORD2609141199",
+      "platform": "Ajio",
+      "order_date": "2026-09-14T19:05:02+05:30",
+      "status": "DELIVERED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260914-5678",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1299.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1299.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-19"
+    },
+    {
+      "order_id": "ORD2609201200",
+      "platform": "Ajio",
+      "order_date": "2026-09-20T11:18:04+05:30",
+      "status": "DELIVERED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260920641306",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 1899.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 1899.0
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": "2026-09-22"
+    },
+    {
+      "order_id": "ORD2609201201",
+      "platform": "BigBasket",
+      "order_date": "2026-09-20T07:28:51+05:30",
+      "status": "DELIVERED",
+      "payment_method": "WALLET",
+      "payment_reference": null,
+      "items": [
+        {
+          "product_name": "Rice Cooker 1.8L",
+          "category": "Home",
+          "quantity": 2,
+          "unit_price": 1799.0,
+          "item_total": 3598.0
+        },
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 5897.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 5897.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": "2026-09-25"
+    },
+    {
+      "order_id": "ORD2609221202",
+      "platform": "Croma",
+      "order_date": "2026-09-22T09:51:51+05:30",
+      "status": "PROCESSING",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260922-5678",
+      "items": [
+        {
+          "product_name": "Bluetooth Speaker",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 1899.0,
+          "item_total": 1899.0
+        },
+        {
+          "product_name": "Air Fryer 4L",
+          "category": "Home",
+          "quantity": 1,
+          "unit_price": 4999.0,
+          "item_total": 4999.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 6898.0,
+        "discount": 1034.7,
+        "shipping_fee": 0.0,
+        "tax": 175.9,
+        "total_amount": 6039.2
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": null
+    },
+    {
+      "order_id": "ORD2609231203",
+      "platform": "Amazon",
+      "order_date": "2026-09-23T13:14:43+05:30",
+      "status": "SHIPPED",
+      "payment_method": "UPI",
+      "payment_reference": "UPI260923052528",
+      "items": [
+        {
+          "product_name": "Laptop Backpack",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 1299.0,
+          "item_total": 1299.0
+        },
+        {
+          "product_name": "Vitamin C Serum",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 549.0,
+          "item_total": 1098.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 2397.0,
+        "discount": 0.0,
+        "shipping_fee": 0.0,
+        "tax": 0.0,
+        "total_amount": 2397.0
+      },
+      "shipping_city": "Chennai",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "600040",
+      "delivery_date": null
+    },
+    {
+      "order_id": "ORD2609241204",
+      "platform": "Croma",
+      "order_date": "2026-09-24T15:07:14+05:30",
+      "status": "SHIPPED",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260924-5678",
+      "items": [
+        {
+          "product_name": "Running Shoes",
+          "category": "Fashion",
+          "quantity": 1,
+          "unit_price": 2299.0,
+          "item_total": 2299.0
+        },
+        {
+          "product_name": "Face Moisturizer 100ml",
+          "category": "Beauty",
+          "quantity": 2,
+          "unit_price": 425.0,
+          "item_total": 850.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 3149.0,
+        "discount": 157.45,
+        "shipping_fee": 0.0,
+        "tax": 89.75,
+        "total_amount": 3081.3
+      },
+      "shipping_city": "Bengaluru",
+      "shipping_state": "Karnataka",
+      "shipping_pincode": "560034",
+      "delivery_date": null
+    },
+    {
+      "order_id": "ORD2609251205",
+      "platform": "Flipkart",
+      "order_date": "2026-09-25T22:14:35+05:30",
+      "status": "PROCESSING",
+      "payment_method": "CREDIT_CARD",
+      "payment_reference": "CC-260925-5678",
+      "items": [
+        {
+          "product_name": "Wireless Mouse",
+          "category": "Electronics",
+          "quantity": 1,
+          "unit_price": 449.0,
+          "item_total": 449.0
+        }
+      ],
+      "pricing": {
+        "subtotal": 449.0,
+        "discount": 0.0,
+        "shipping_fee": 49.0,
+        "tax": 0.0,
+        "total_amount": 498.0
+      },
+      "shipping_city": "Coimbatore",
+      "shipping_state": "Tamil Nadu",
+      "shipping_pincode": "641001",
+      "delivery_date": null
+    }
+  ]
+}

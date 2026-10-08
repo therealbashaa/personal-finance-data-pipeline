@@ -1,0 +1,58 @@
+version: 2
+
+models:
+    - name: dim_source
+      columns:
+        - name: source_key
+          data_tests: [unique, not_null]
+    
+    - name: dim_date
+      columns:
+        - name: date_key
+          data_tests: [unique, not_null]
+
+    - name: dim_merchant
+      columns:
+        - name: merchant_key
+          data_tests: [unique, not_null]
+    
+    - name: dim_category
+      columns:
+        - name: category_key
+          data_tests: [unique, not_null]
+
+    - name: fact_transactions
+      columns:
+        - name: transaction_key
+          data_tests: [unique, not_null]
+
+        - name: date_key
+          data_tests:
+            - not_null
+            - relationships:
+                to: ref('dim_date')
+                field: date_key
+
+        - name: merchant_key
+          data_tests:
+            - not_null
+            - relationships:
+                arguments:
+                  to: ref('dim_merchant')
+                  field: merchant_key
+
+        - name: source_key
+          data_tests:
+            - not_null
+            - relationships:
+                arguments:
+                  to: ref('dim_source')
+                  field: source_key
+                  
+        - name: category_key
+          data_tests:
+            - not_null
+            - relationships:
+                arguments:
+                  to: ref('dim_category')
+                  field: category_key

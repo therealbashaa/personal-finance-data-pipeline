@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets - never commit
+.env
+*.env
+profiles.yml
+**/profiles.yml
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+
+# dbt generated folders
+target/
+dbt_packages/
+logs/
+.user.yml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
