@@ -1,7 +1,7 @@
 # Stage 2: S3 to Snowflake (Raw Layer)
 
 **Project:** batch_processing_project (personal finance batch pipeline)
-**Pipeline position:** Sources -> Python -> AWS S3 -> **Snowflake (this stage)** -> dbt -> Airflow -> Analytics
+**Pipeline position:** Sources -> Python -> AWS S3 -> **Snowflake (this stage)** -> dbt -> Analytics
 **Status:** Complete
 
 ---
