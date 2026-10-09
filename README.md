@@ -1,12 +1,9 @@
 # 💳 Personal Finance Data Pipeline
 ### End-to-end batch data engineering project: Python → AWS S3 → Snowflake → dbt → Power BI
 
-<img width="1536" height="1024" alt="Personal Finance Data Pipeline" src="https://github.com/user-attachments/assets/bfa027a3-de41-4c47-8db3-a132e6a8df01" />
-
-
 > I took messy money data from **4 different sources** (credit card, UPI, e-commerce, bank statement PDF), built a pipeline that cleans and loads it into a cloud warehouse, modelled it as a **star schema**, tested it, and turned it into a **dashboard** that answers: *"Where is my money going?"*
 
-![Architecture](images/current_architecture.png)
+<img width="1536" height="1024" alt="Personal Finance Data Pipeline" src="https://github.com/user-attachments/assets/7850e1fb-bd18-4091-9d5e-0bb94e334cab" />
 
 ---
 
