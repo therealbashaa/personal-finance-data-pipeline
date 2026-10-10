@@ -210,7 +210,6 @@ finance_data_pipeline/
 ## 📬 Contact
 
 Gouse Basha
-Aspiring Data Engineer · Open to Data Engineer / Analytics Engineer roles
 🔗 LinkedIn: `https://www.linkedin.com/in/therealbasha/`
 💻 GitHub: `https://github.com/therealbashaa/`
 
